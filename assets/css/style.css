@@ -1,6 +1,8 @@
 body {
     background-image: url("../img/background.png");
     background-color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+
 }
 
 .navbar-brand {
@@ -8,12 +10,22 @@ body {
     color: white;
 }
 
+.nav-item {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 #about_me {
     background-color: white;
     margin-left: 5%;
     margin-top: 5%;
+    padding: 50px;
     width: 65%;
     float: left;
+    text-align: justify;
+}
+
+#about_me h1 {
+    font-weight: bold;
 }
 
 #my_pic {
