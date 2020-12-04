@@ -3,14 +3,21 @@ body {
     background-color: #000000;
 }
 
-#hello {
-    height: 100%;
-    width: 100%;
-    margin: 0;
-    padding: 5%;
-    text-align: center;
+.navbar-brand {
+    background-color: teal;
+    color: white;
 }
 
+#about_me {
+    background-color: white;
+    margin-left: 5%;
+    width: 65%;
+    float: left;
+}
+
+#my_pic {
+    padding: 2%;
+}
 /* Place the icon navbar at the bottom of the page, and make it stick */
 .bottom_nav {
     overflow: hidden;
