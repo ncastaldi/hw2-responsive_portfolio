@@ -2,7 +2,6 @@ body {
     background-image: url("../img/background.png");
     background-color: #000000;
     font-family: 'Times New Roman', Times, serif;
-
 }
 
 .navbar {
@@ -17,7 +16,14 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-#about_me {
+.form-group {
+    width: 500px;
+}
+
+.form-group #contact-message {
+    height: 150px;
+}
+#about_me, #contact_me {
     background-color: white;
     margin-left: 5%;
     margin-top: 5%;
@@ -27,8 +33,9 @@ body {
     text-align: justify;
 }
 
-#about_me h1 {
+#about_me h1, #contact_me h1 {
     font-weight: bold;
+    color: teal;
 }
 
 #my_pic {
