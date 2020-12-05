@@ -4,18 +4,14 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
-.navbar {
-    background-color: #f8f9fa;
-}
-.navbar-brand {
-    background-color: teal;
-    color: white;
-}
-
-.nav-item {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
+/* Place the icon navbar at the bottom of the page, and make it stick */
+.bottom_nav {
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: xx-large;
+  }
 
 .form-group {
     width: 500px;
@@ -23,6 +19,19 @@ body {
 
 .form-group #contact-message {
     height: 150px;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    background-color: teal;
+    color: white;
+}
+
+.nav-item {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .portfolio_content {
@@ -53,13 +62,3 @@ body {
 #my_pic {
     padding: 2%;
 }
-
-/* Place the icon navbar at the bottom of the page, and make it stick */
-.bottom_nav {
-    overflow: hidden;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    font-size: xx-large;
-  }
-  
