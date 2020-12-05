@@ -69,12 +69,7 @@ body {
 
 #my_pic {
     padding: 2%;
-}
-
-@media only screen and (max-width: 2000px) {
-    #my_pic {
-        height: 250px;
-    }
+    height: 250px;
 }
 
  @media only screen and (max-width: 768px) {
