@@ -29,6 +29,9 @@ body {
     background-color: #f8f9fa;
 }
 
+.navicon {
+    color: teal;
+}
 .navbar-brand {
     background-color: teal;
     color: white;
