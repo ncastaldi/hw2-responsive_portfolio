@@ -11,7 +11,7 @@ body {
     bottom: 0;
     width: 100%;
     font-size: xx-large;
-  }
+}
 
 .form-group {
     width: 500px;
@@ -61,4 +61,16 @@ body {
 
 #my_pic {
     padding: 2%;
+}
+
+ @media only screen and (max-width: 768px) {
+    .contact_form {
+        width: 400px;
+    }    
+}
+
+@media only screen and (max-width: 415px) {
+    .contact_form {
+        width: 200px;
+    }    
 }
