@@ -16,6 +16,7 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+
 .form-group {
     width: 500px;
 }
@@ -23,7 +24,18 @@ body {
 .form-group #contact-message {
     height: 150px;
 }
-#about_me, #contact_me {
+
+.portfolio_content {
+    margin: 10px 10px 10px 10px;
+    height: 350px;
+    width: 350px;
+    text-align: center;
+    border: 5px solid red;
+    background-image: url("../img/portfolio_placeholder.png");
+    background-size: 350px 350px;
+}
+
+#about_me, #contact_me, #portfolio {
     background-color: white;
     margin-left: 5%;
     margin-top: 5%;
@@ -33,7 +45,7 @@ body {
     text-align: justify;
 }
 
-#about_me h1, #contact_me h1 {
+#about_me h1, #contact_me h1, #portfolio h1 {
     font-weight: bold;
     color: teal;
 }
