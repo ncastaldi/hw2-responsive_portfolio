@@ -2,6 +2,10 @@
 
 ## Description 
 
+For this assignment, we were asked to build a "responsive portfolio" site with HTML, CSS, and Bootstrap.
+
+Finally, I tested my site against the [W3C Markup Validation Service](https://validator.w3.org/)
+
 [Link to Live Site](https://www.castaldi.dev/wk2-homework-responsive_portfolio/index.html)
 
 
@@ -21,14 +25,13 @@ Upload required files to web server to install.
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+GitHub Repository: [https://github.com/ncastaldi/wk2-homework-responsive_portfolio/](https://github.com/ncastaldi/wk2-homework-responsive_portfolio/)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![Repo Screenshot](assets/img/reposcreenshot.png)
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+Live Site: [https://www.castaldi.dev/wk2-homework-responsive_portfolio/index.html](https://www.castaldi.dev/wk2-homework-responsive_portfolio/index.html)
 
+![Site Screenshot](assets/img/sitescreenshot.png)
 
 ## License
 
