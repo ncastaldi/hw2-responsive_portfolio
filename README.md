@@ -4,6 +4,12 @@
 
 For this assignment, we were asked to build a "responsive portfolio" site with HTML, CSS, and Bootstrap.
 
+Requirements:
+- A navbar
+- A responsive layout
+- Responsive images
+- Use of Bootstrap's grid system
+
 Finally, I tested my site against the [W3C Markup Validation Service](https://validator.w3.org/)
 
 [Link to Live Site](https://www.castaldi.dev/wk2-homework-responsive_portfolio/index.html)
