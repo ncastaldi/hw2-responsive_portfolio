@@ -12,7 +12,7 @@ Requirements:
 
 Finally, I tested my site against the [W3C Markup Validation Service](https://validator.w3.org/)
 
-[Link to Live Site](https://www.castaldi.dev/wk2-homework-responsive_portfolio/index.html)
+[Link to Live Site](https://www.castaldi.dev/hw2-responsive_portfolio/)
 
 
 ## Table of Contents
@@ -31,11 +31,11 @@ Upload required files to web server to install.
 
 ## Usage 
 
-GitHub Repository: [https://github.com/ncastaldi/wk2-homework-responsive_portfolio/](https://github.com/ncastaldi/wk2-homework-responsive_portfolio/)
+GitHub Repository: [https://github.com/ncastaldi/hw2-responsive_portfolio/](https://github.com/ncastaldi/hw2-responsive_portfolio/)
 
 ![Repo Screenshot](assets/img/reposcreenshot.png)
 
-Live Site: [https://www.castaldi.dev/wk2-homework-responsive_portfolio/index.html](https://www.castaldi.dev/wk2-homework-responsive_portfolio/index.html)
+Live Site: [https://www.castaldi.dev/hw2-responsive_portfolio/](https://www.castaldi.dev/hw2-responsive_portfolio/)
 
 ![Site Screenshot](assets/img/sitescreenshot.png)
 
